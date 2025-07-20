@@ -1,4 +1,4 @@
-# Print a multiplication table for a given number.
+# Print a multiplication table for a given number
 
 num = int(input("Enter the number you want a multiplication table of  : "))
 
